@@ -1,11 +1,21 @@
 import { ContainerMain } from "./ContainerMain";
 import { MovieProvider } from "../context/MovieProvider";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { AddMovieContainer } from "./AddMovieContainer";
 
 function App() {
   return (
     <MovieProvider>
-      <ContainerMain></ContainerMain>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<ContainerMain></ContainerMain>}></Route>
+          <Route
+            path="/add-movie"
+            element={<AddMovieContainer></AddMovieContainer>}
+          ></Route>
+        </Routes>
+      </BrowserRouter>
     </MovieProvider>
   );
 }

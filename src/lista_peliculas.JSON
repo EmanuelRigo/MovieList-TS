@@ -1,0 +1,2546 @@
+[
+  {
+    "año": "1939",
+    "mes": "11",
+    "dia": "17",
+    "titulo": "The Wizard of Oz"
+  },
+  {
+    "año": "1950",
+    "mes": "07",
+    "dia": "05",
+    "titulo": "Cinderella"
+  },
+  {
+    "año": "1954",
+    "mes": "08",
+    "dia": "04",
+    "titulo": "Rear Window"
+  },
+  {
+    "año": "1959",
+    "mes": "07",
+    "dia": "09",
+    "titulo": "Sleeping Beauty"
+  },
+  {
+    "año": "1961",
+    "mes": "10",
+    "dia": "05",
+    "titulo": "TIFFANY BREAKFAST"
+  },
+  {
+    "año": "1967",
+    "mes": "12",
+    "dia": "07",
+    "titulo": " The Jungle Book"
+  },
+  {
+    "año": "1968",
+    "mes": "02",
+    "dia": "15",
+    "titulo": "THE GRADUATE"
+  },
+  {
+    "año": "1968",
+    "mes": "04",
+    "dia": "03",
+    "titulo": "2001: A Space Odyssey"
+  },
+  {
+    "año": "1971",
+    "mes": "02",
+    "dia": "02",
+    "titulo": "A Clockwork Orange"
+  },
+  {
+    "año": "1972",
+    "mes": "09",
+    "dia": "20",
+    "titulo": "The Godfather"
+  },
+  {
+    "año": "1973",
+    "mes": "10",
+    "dia": "25",
+    "titulo": "AMERICAN GRAFFITI"
+  },
+  {
+    "año": "1974",
+    "mes": "08",
+    "dia": "15",
+    "titulo": "The Exorcist"
+  },
+  {
+    "año": "1974",
+    "mes": "12",
+    "dia": "26",
+    "titulo": "The Godfather 2"
+  },
+  {
+    "año": "1976",
+    "mes": "02",
+    "dia": "08",
+    "titulo": "TAXI DRIVER"
+  },
+  {
+    "año": "1977",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "star wars the new hope"
+  },
+  {
+    "año": "1979",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "ALIEN"
+  },
+  {
+    "año": "1979",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "MAD MAX"
+  },
+  {
+    "año": "1980",
+    "mes": "07",
+    "dia": "31",
+    "titulo": "star wars v the empire strikes back"
+  },
+  {
+    "año": "1980",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "THE SHINING"
+  },
+  {
+    "año": "1981",
+    "mes": "02",
+    "dia": "04",
+    "titulo": "MAD MAX THE ROAD WARRIOR"
+  },
+  {
+    "año": "1981",
+    "mes": "04",
+    "dia": "30",
+    "titulo": "Friday the 13th 2"
+  },
+  {
+    "año": "1982",
+    "mes": "08",
+    "dia": "26",
+    "titulo": "The Thing"
+  },
+  {
+    "año": "1983",
+    "mes": "12",
+    "dia": "08",
+    "titulo": "Star wars the return of the jedi"
+  },
+  {
+    "año": "1984",
+    "mes": "02",
+    "dia": "09",
+    "titulo": "SCARFACE"
+  },
+  {
+    "año": "1984",
+    "mes": "08",
+    "dia": "23",
+    "titulo": "GREMLINS"
+  },
+  {
+    "año": "1984",
+    "mes": "11",
+    "dia": "09",
+    "titulo": "A Nightmare on Elm Street "
+  },
+  {
+    "año": "1985",
+    "mes": "05",
+    "dia": "16",
+    "titulo": "BREAKFAST CLUB"
+  },
+  {
+    "año": "1985",
+    "mes": "07",
+    "dia": "04",
+    "titulo": "THE GOONIES"
+  },
+  {
+    "año": "1985",
+    "mes": "08",
+    "dia": "16",
+    "titulo": "Return of the Living Dead"
+  },
+  {
+    "año": "1985",
+    "mes": "11",
+    "dia": "01",
+    "titulo": "A Nightmare on Elm Street 2: Freddy's Revenge"
+  },
+  {
+    "año": "1985",
+    "mes": "12",
+    "dia": "26",
+    "titulo": "Back to the Future"
+  },
+  {
+    "año": "1986",
+    "mes": "07",
+    "dia": "10",
+    "titulo": "LABYRINTH"
+  },
+  {
+    "año": "1986",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "ALIENS"
+  },
+  {
+    "año": "1987",
+    "mes": "02",
+    "dia": "27",
+    "titulo": "A Nightmare on Elm Street 3: Dream Warriors"
+  },
+  {
+    "año": "1987",
+    "mes": "10",
+    "dia": "08",
+    "titulo": "FULL METAL JACKET"
+  },
+  {
+    "año": "1988",
+    "mes": "04",
+    "dia": "21",
+    "titulo": "BEETLEJUICE"
+  },
+  {
+    "año": "1988",
+    "mes": "08",
+    "dia": "19",
+    "titulo": "A Nightmare on Elm Street 4: The Dream Master"
+  },
+  {
+    "año": "1989",
+    "mes": "04",
+    "dia": "21",
+    "titulo": "Pet Sematary"
+  },
+  {
+    "año": "1989",
+    "mes": "08",
+    "dia": "11",
+    "titulo": "A Nightmare on Elm Street 5: The Dream Child"
+  },
+  {
+    "año": "1989",
+    "mes": "12",
+    "dia": "01",
+    "titulo": "The Little Mermaid"
+  },
+  {
+    "año": "1989",
+    "mes": "12",
+    "dia": "14",
+    "titulo": "BATMAN"
+  },
+  {
+    "año": "1989",
+    "mes": "12",
+    "dia": "28",
+    "titulo": "Back to the Future 2"
+  },
+  {
+    "año": "1990",
+    "mes": "07",
+    "dia": "05",
+    "titulo": "Back to the Future 3"
+  },
+  {
+    "año": "1990",
+    "mes": "08",
+    "dia": "09",
+    "titulo": "GREMLINS 2"
+  },
+  {
+    "año": "1990",
+    "mes": "11",
+    "dia": "10",
+    "titulo": "Home alone "
+  },
+  {
+    "año": "1990",
+    "mes": "11",
+    "dia": "18",
+    "titulo": "IT"
+  },
+  {
+    "año": "1991",
+    "mes": "01",
+    "dia": "27",
+    "titulo": "The Addams Family"
+  },
+  {
+    "año": "1991",
+    "mes": "02",
+    "dia": "04",
+    "titulo": "Edward Scissorhands "
+  },
+  {
+    "año": "1991",
+    "mes": "05",
+    "dia": "16",
+    "titulo": "The Godfather 3"
+  },
+  {
+    "año": "1991",
+    "mes": "09",
+    "dia": "05",
+    "titulo": "Freddy's Dead: The Final Nightmare"
+  },
+  {
+    "año": "1992",
+    "mes": "05",
+    "dia": "22",
+    "titulo": "ALIEN 3"
+  },
+  {
+    "año": "1992",
+    "mes": "07",
+    "dia": "09",
+    "titulo": "BATMAN RETURNS"
+  },
+  {
+    "año": "1992",
+    "mes": "07",
+    "dia": "11",
+    "titulo": "JUMANJI"
+  },
+  {
+    "año": "1992",
+    "mes": "10",
+    "dia": "23",
+    "titulo": "Reservoir Dogs "
+  },
+  {
+    "año": "1992",
+    "mes": "11",
+    "dia": "20",
+    "titulo": "Home alone 2"
+  },
+  {
+    "año": "1993",
+    "mes": "01",
+    "dia": "21",
+    "titulo": "Bram Stoker's Dracula "
+  },
+  {
+    "año": "1993",
+    "mes": "06",
+    "dia": "10",
+    "titulo": "The Sandlot"
+  },
+  {
+    "año": "1993",
+    "mes": "07",
+    "dia": "15",
+    "titulo": "Jurassic Park"
+  },
+  {
+    "año": "1994",
+    "mes": "02",
+    "dia": "16",
+    "titulo": "PULP FICCION"
+  },
+  {
+    "año": "1994",
+    "mes": "03",
+    "dia": "24",
+    "titulo": "CARLITOS WAY"
+  },
+  {
+    "año": "1994",
+    "mes": "05",
+    "dia": "11",
+    "titulo": "The Crow"
+  },
+  {
+    "año": "1994",
+    "mes": "10",
+    "dia": "06",
+    "titulo": "FORREST GUMP"
+  },
+  {
+    "año": "1994",
+    "mes": "10",
+    "dia": "27",
+    "titulo": "The Nightmare Before Christmas"
+  },
+  {
+    "año": "1994",
+    "mes": "12",
+    "dia": "22",
+    "titulo": "Interview with the Vampire: The Vampire Chronicles"
+  },
+  {
+    "año": "1995",
+    "mes": "02",
+    "dia": "09",
+    "titulo": "The professional"
+  },
+  {
+    "año": "1995",
+    "mes": "03",
+    "dia": "23",
+    "titulo": "The Shawshank Redemption"
+  },
+  {
+    "año": "1995",
+    "mes": "07",
+    "dia": "15",
+    "titulo": "BATMAN FOREVER"
+  },
+  {
+    "año": "1995",
+    "mes": "07",
+    "dia": "21",
+    "titulo": "BAD BOYS"
+  },
+  {
+    "año": "1995",
+    "mes": "08",
+    "dia": "10",
+    "titulo": "Braveheart"
+  },
+  {
+    "año": "1995",
+    "mes": "11",
+    "dia": "22",
+    "titulo": "Casino"
+  },
+  {
+    "año": "1995",
+    "mes": "12",
+    "dia": "27",
+    "titulo": "Twelve Monkeys"
+  },
+  {
+    "año": "1996",
+    "mes": "01",
+    "dia": "27",
+    "titulo": " Romeo and Juliet"
+  },
+  {
+    "año": "1996",
+    "mes": "02",
+    "dia": "01",
+    "titulo": "WES CRAVEN'S NEW NIGHTMARE"
+  },
+  {
+    "año": "1996",
+    "mes": "07",
+    "dia": "12",
+    "titulo": "Independence Day"
+  },
+  {
+    "año": "1997",
+    "mes": "05",
+    "dia": "22",
+    "titulo": "The Fifth Element"
+  },
+  {
+    "año": "1997",
+    "mes": "06",
+    "dia": "26",
+    "titulo": "Jurassic Park 2"
+  },
+  {
+    "año": "1997",
+    "mes": "07",
+    "dia": "12",
+    "titulo": "Batman and Robin"
+  },
+  {
+    "año": "1997",
+    "mes": "07",
+    "dia": "17",
+    "titulo": "Men in Black"
+  },
+  {
+    "año": "1997",
+    "mes": "08",
+    "dia": "01",
+    "titulo": "Spawn"
+  },
+  {
+    "año": "1997",
+    "mes": "11",
+    "dia": "06",
+    "titulo": "Alien Resurrection"
+  },
+  {
+    "año": "1998",
+    "mes": "01",
+    "dia": "01",
+    "titulo": "The Devil's Advocate"
+  },
+  {
+    "año": "1998",
+    "mes": "03",
+    "dia": "18",
+    "titulo": "Godzilla"
+  },
+  {
+    "año": "1998",
+    "mes": "08",
+    "dia": "20",
+    "titulo": "Jackie Brown"
+  },
+  {
+    "año": "1998",
+    "mes": "09",
+    "dia": "17",
+    "titulo": "Saving Private Ryan"
+  },
+  {
+    "año": "1998",
+    "mes": "11",
+    "dia": "29",
+    "titulo": "A Bug's Life"
+  },
+  {
+    "año": "1999",
+    "mes": "01",
+    "dia": "10",
+    "titulo": "batman beyond"
+  },
+  {
+    "año": "1999",
+    "mes": "03",
+    "dia": "11",
+    "titulo": "American history X"
+  },
+  {
+    "año": "1999",
+    "mes": "06",
+    "dia": "10",
+    "titulo": "The matrix"
+  },
+  {
+    "año": "1999",
+    "mes": "07",
+    "dia": "08",
+    "titulo": "Star Wars: Episode I - The Phantom Menace"
+  },
+  {
+    "año": "1999",
+    "mes": "10",
+    "dia": "07",
+    "titulo": "The Sixth Sense"
+  },
+  {
+    "año": "1999",
+    "mes": "11",
+    "dia": "04",
+    "titulo": "Fight club"
+  },
+  {
+    "año": "1999",
+    "mes": "12",
+    "dia": "02",
+    "titulo": "Toy story 2"
+  },
+  {
+    "año": "2000",
+    "mes": "02",
+    "dia": "18",
+    "titulo": "Pitch black"
+  },
+  {
+    "año": "2000",
+    "mes": "03",
+    "dia": "17",
+    "titulo": "Final destination"
+  },
+  {
+    "año": "2000",
+    "mes": "05",
+    "dia": "18",
+    "titulo": "Gladiator"
+  },
+  {
+    "año": "2000",
+    "mes": "07",
+    "dia": "13",
+    "titulo": "X-men"
+  },
+  {
+    "año": "2000",
+    "mes": "07",
+    "dia": "27",
+    "titulo": "The Patriot"
+  },
+  {
+    "año": "2000",
+    "mes": "08",
+    "dia": "24",
+    "titulo": "American psycho"
+  },
+  {
+    "año": "2000",
+    "mes": "11",
+    "dia": "30",
+    "titulo": "Unbreakable"
+  },
+  {
+    "año": "2001",
+    "mes": "02",
+    "dia": "22",
+    "titulo": "Hannibal"
+  },
+  {
+    "año": "2001",
+    "mes": "06",
+    "dia": "08",
+    "titulo": "Swordfishse"
+  },
+  {
+    "año": "2001",
+    "mes": "07",
+    "dia": "18",
+    "titulo": "Jurassic Park 3"
+  },
+  {
+    "año": "2001",
+    "mes": "11",
+    "dia": "29",
+    "titulo": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+    "año": "2001",
+    "mes": "12",
+    "dia": "06",
+    "titulo": "Monsters inc"
+  },
+  {
+    "año": "2001",
+    "mes": "12",
+    "dia": "07",
+    "titulo": "Ocean´s eleven"
+  },
+  {
+    "año": "2001",
+    "mes": "12",
+    "dia": "19",
+    "titulo": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "año": "2002",
+    "mes": "01",
+    "dia": "18",
+    "titulo": "Black hawk down"
+  },
+  {
+    "año": "2002",
+    "mes": "01",
+    "dia": "24",
+    "titulo": "Amelie"
+  },
+  {
+    "año": "2002",
+    "mes": "02",
+    "dia": "04",
+    "titulo": "collateral damage"
+  },
+  {
+    "año": "2002",
+    "mes": "02",
+    "dia": "07",
+    "titulo": "Memento"
+  },
+  {
+    "año": "2002",
+    "mes": "05",
+    "dia": "15",
+    "titulo": "Spider-Man"
+  },
+  {
+    "año": "2002",
+    "mes": "05",
+    "dia": "16",
+    "titulo": "Star Wars: The Clone Wars"
+  },
+  {
+    "año": "2002",
+    "mes": "06",
+    "dia": "29",
+    "titulo": "Ice Age"
+  },
+  {
+    "año": "2002",
+    "mes": "07",
+    "dia": "03",
+    "titulo": "Men in Black 2"
+  },
+  {
+    "año": "2002",
+    "mes": "08",
+    "dia": "15",
+    "titulo": "Signs"
+  },
+  {
+    "año": "2002",
+    "mes": "08",
+    "dia": "22",
+    "titulo": "Resident evil"
+  },
+  {
+    "año": "2002",
+    "mes": "10",
+    "dia": "16",
+    "titulo": "28 Days Later"
+  },
+  {
+    "año": "2002",
+    "mes": "11",
+    "dia": "28",
+    "titulo": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "año": "2002",
+    "mes": "12",
+    "dia": "06",
+    "titulo": "Equilibrium"
+  },
+  {
+    "año": "2002",
+    "mes": "12",
+    "dia": "18",
+    "titulo": "The Lord of the Rings: The Two Towers"
+  },
+  {
+    "año": "2003",
+    "mes": "02",
+    "dia": "06",
+    "titulo": "Gangs of New York"
+  },
+  {
+    "año": "2003",
+    "mes": "04",
+    "dia": "03",
+    "titulo": "X-men 2"
+  },
+  {
+    "año": "2003",
+    "mes": "05",
+    "dia": "16",
+    "titulo": "The matrix reloaded"
+  },
+  {
+    "año": "2003",
+    "mes": "06",
+    "dia": "03",
+    "titulo": "The animatrix"
+  },
+  {
+    "año": "2003",
+    "mes": "06",
+    "dia": "26",
+    "titulo": "Hulk"
+  },
+  {
+    "año": "2003",
+    "mes": "07",
+    "dia": "03",
+    "titulo": "Finding Nemo"
+  },
+  {
+    "año": "2003",
+    "mes": "07",
+    "dia": "08",
+    "titulo": "Terminator 3"
+  },
+  {
+    "año": "2003",
+    "mes": "11",
+    "dia": "05",
+    "titulo": "The matrix revolution"
+  },
+  {
+    "año": "2003",
+    "mes": "11",
+    "dia": "27",
+    "titulo": "Kill bill"
+  },
+  {
+    "año": "2003",
+    "mes": "12",
+    "dia": "17",
+    "titulo": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "año": "2004",
+    "mes": "01",
+    "dia": "18",
+    "titulo": "The Machinist"
+  },
+  {
+    "año": "2004",
+    "mes": "02",
+    "dia": "05",
+    "titulo": "Big Fish"
+  },
+  {
+    "año": "2004",
+    "mes": "02",
+    "dia": "13",
+    "titulo": "50 first dates "
+  },
+  {
+    "año": "2004",
+    "mes": "03",
+    "dia": "10",
+    "titulo": "Dawn of the dead"
+  },
+  {
+    "año": "2004",
+    "mes": "04",
+    "dia": "21",
+    "titulo": "Man on Fire "
+  },
+  {
+    "año": "2004",
+    "mes": "04",
+    "dia": "29",
+    "titulo": "Kill Bill vol 2"
+  },
+  {
+    "año": "2004",
+    "mes": "05",
+    "dia": "13",
+    "titulo": "Troya"
+  },
+  {
+    "año": "2004",
+    "mes": "05",
+    "dia": "27",
+    "titulo": "The day after tomorrow"
+  },
+  {
+    "año": "2004",
+    "mes": "05",
+    "dia": "29",
+    "titulo": "Shaun of the Dead"
+  },
+  {
+    "año": "2004",
+    "mes": "06",
+    "dia": "03",
+    "titulo": "Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "año": "2004",
+    "mes": "06",
+    "dia": "11",
+    "titulo": "The chronicle of riddick"
+  },
+  {
+    "año": "2004",
+    "mes": "06",
+    "dia": "24",
+    "titulo": "The Butterfly Effect"
+  },
+  {
+    "año": "2004",
+    "mes": "07",
+    "dia": "01",
+    "titulo": "Spider-Man 2"
+  },
+  {
+    "año": "2004",
+    "mes": "08",
+    "dia": "13",
+    "titulo": "Alien vs. Predator"
+  },
+  {
+    "año": "2004",
+    "mes": "10",
+    "dia": "28",
+    "titulo": "Resident Evil: Apocalypse"
+  },
+  {
+    "año": "2004",
+    "mes": "12",
+    "dia": "08",
+    "titulo": "Ocean's twelve"
+  },
+  {
+    "año": "2005",
+    "mes": "02",
+    "dia": "09",
+    "titulo": "The aviator"
+  },
+  {
+    "año": "2005",
+    "mes": "03",
+    "dia": "17",
+    "titulo": "Constantine"
+  },
+  {
+    "año": "2005",
+    "mes": "04",
+    "dia": "01",
+    "titulo": "Sin city"
+  },
+  {
+    "año": "2005",
+    "mes": "04",
+    "dia": "06",
+    "titulo": " V for Vendetta"
+  },
+  {
+    "año": "2005",
+    "mes": "04",
+    "dia": "07",
+    "titulo": "hitch"
+  },
+  {
+    "año": "2005",
+    "mes": "04",
+    "dia": "27",
+    "titulo": " xXx: State of the Union"
+  },
+  {
+    "año": "2005",
+    "mes": "05",
+    "dia": "05",
+    "titulo": "Kingdom of Heaven"
+  },
+  {
+    "año": "2005",
+    "mes": "05",
+    "dia": "17",
+    "titulo": "Star Wars: Episode III - Revenge of the Sith"
+  },
+  {
+    "año": "2005",
+    "mes": "06",
+    "dia": "16",
+    "titulo": "Batman Begins"
+  },
+  {
+    "año": "2005",
+    "mes": "07",
+    "dia": "09",
+    "titulo": "Sr and sra Smith"
+  },
+  {
+    "año": "2005",
+    "mes": "07",
+    "dia": "14",
+    "titulo": "LOS CUATRO FANTASTICOS"
+  },
+  {
+    "año": "2005",
+    "mes": "07",
+    "dia": "21",
+    "titulo": "Land of the dead"
+  },
+  {
+    "año": "2005",
+    "mes": "10",
+    "dia": "20",
+    "titulo": "Doom"
+  },
+  {
+    "año": "2005",
+    "mes": "11",
+    "dia": "24",
+    "titulo": "Harry Potter and the Goblet of Fire"
+  },
+  {
+    "año": "2006",
+    "mes": "01",
+    "dia": "12",
+    "titulo": "Inframundo la evolucion"
+  },
+  {
+    "año": "2006",
+    "mes": "05",
+    "dia": "25",
+    "titulo": "X-men the last stand"
+  },{
+    "año": "2006",
+    "mes": "09",
+    "dia": "02",
+    "titulo": "Paprika"
+  },
+  {
+    "año": "2006",
+    "mes": "10",
+    "dia": "27",
+    "titulo": "Babel"
+  },
+  {
+    "año": "2006",
+    "mes": "11",
+    "dia": "16",
+    "titulo": "007 CASINO ROYALE"
+  },
+  {
+    "año": "2006",
+    "mes": "11",
+    "dia": "30",
+    "titulo": "The Prestige"
+  },
+  {
+    "año": "2006",
+    "mes": "12",
+    "dia": "09",
+    "titulo": "SMOKING ACES"
+  },
+  {
+    "año": "2007",
+    "mes": "02",
+    "dia": "08",
+    "titulo": "Blood Diamond"
+  },
+  {
+    "año": "2007",
+    "mes": "02",
+    "dia": "16",
+    "titulo": "GHOST RIDER"
+  },
+  {
+    "año": "2007",
+    "mes": "03",
+    "dia": "09",
+    "titulo": "300"
+  },
+  {
+    "año": "2007",
+    "mes": "04",
+    "dia": "05",
+    "titulo": "The Reaping"
+  },
+  {
+    "año": "2007",
+    "mes": "05",
+    "dia": "03",
+    "titulo": "Spider-Man 3"
+  },
+  {
+    "año": "2007",
+    "mes": "05",
+    "dia": "24",
+    "titulo": "OCEAN'S THIRTEEN"
+  },
+  {
+    "año": "2007",
+    "mes": "06",
+    "dia": "12",
+    "titulo": " The Fantastic Four and SILVER SURFER"
+  },
+  {
+    "año": "2007",
+    "mes": "07",
+    "dia": "07",
+    "titulo": "28 Weeks Later"
+  },
+  {
+    "año": "2007",
+    "mes": "07",
+    "dia": "19",
+    "titulo": "TRANSFORMERS"
+  },
+  {
+    "año": "2007",
+    "mes": "07",
+    "dia": "28",
+    "titulo": "Harry Potter and the Order of the Phoenix"
+  },
+  {
+    "año": "2007",
+    "mes": "09",
+    "dia": "21",
+    "titulo": "INTO THE WILD"
+  },
+  {
+    "año": "2007",
+    "mes": "10",
+    "dia": "11",
+    "titulo": "Resident Evil: Extinction"
+  },
+  {
+    "año": "2007",
+    "mes": "10",
+    "dia": "26",
+    "titulo": "Dan in Real Life"
+  },
+  {
+    "año": "2007",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "ALIEN VS DEPREDATOR 2"
+  },
+  {
+    "año": "2007",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "The Bucket List"
+  },
+  {
+    "año": "2008",
+    "mes": "01",
+    "dia": "01",
+    "titulo": "I Am Legend"
+  },
+  {
+    "año": "2008",
+    "mes": "01",
+    "dia": "03",
+    "titulo": "AMERICAN GANGSTER"
+  },
+  {
+    "año": "2008",
+    "mes": "01",
+    "dia": "10",
+    "titulo": "sleuth"
+  },
+  {
+    "año": "2008",
+    "mes": "01",
+    "dia": "10",
+    "titulo": "Bridge to Terabithia"
+  },
+  {
+    "año": "2008",
+    "mes": "01",
+    "dia": "17",
+    "titulo": "RESIDENT EVIL DEGENERATION"
+  },
+  {
+    "año": "2008",
+    "mes": "02",
+    "dia": "14",
+    "titulo": "JUMPER"
+  },
+  {
+    "año": "2008",
+    "mes": "02",
+    "dia": "14",
+    "titulo": "JUNO"
+  },
+  {
+    "año": "2008",
+    "mes": "02",
+    "dia": "28",
+    "titulo": "P.S. I Love You"
+  },
+  {
+    "año": "2008",
+    "mes": "04",
+    "dia": "30",
+    "titulo": "IRON MAN"
+  },
+  {
+    "año": "2008",
+    "mes": "06",
+    "dia": "05",
+    "titulo": "The Mist"
+  },
+  {
+    "año": "2008",
+    "mes": "06",
+    "dia": "17",
+    "titulo": "The Dark Knight"
+  },
+  {
+    "año": "2008",
+    "mes": "06",
+    "dia": "19",
+    "titulo": "The Incredible Hulk"
+  },
+  {
+    "año": "2008",
+    "mes": "06",
+    "dia": "20",
+    "titulo": "GET SMART"
+  },
+  {
+    "año": "2008",
+    "mes": "07",
+    "dia": "03",
+    "titulo": "HANCOCK"
+  },
+  {
+    "año": "2008",
+    "mes": "08",
+    "dia": "21",
+    "titulo": "MAMMA MIA"
+  },
+  {
+    "año": "2008",
+    "mes": "10",
+    "dia": "31",
+    "titulo": "007 QUANTUM OF SOLACE"
+  },
+  {
+    "año": "2009",
+    "mes": "01",
+    "dia": "22",
+    "titulo": "Underworld: Rise of the Lycans"
+  },
+  {
+    "año": "2009",
+    "mes": "02",
+    "dia": "12",
+    "titulo": "Who Wants to Be a Millionaire?"
+  },{
+    "año": "2009",
+    "mes": "02",
+    "dia": "26",
+    "titulo": "DEATH PROOF"
+  },
+  {
+    "año": "2009",
+    "mes": "04",
+    "dia": "29",
+    "titulo": "wolverine origins"
+  },
+  {
+    "año": "2009",
+    "mes": "05",
+    "dia": "13",
+    "titulo": "Angels & Demons"
+  },
+  {
+    "año": "2009",
+    "mes": "06",
+    "dia": "04",
+    "titulo": "The Taking of Pelham 123"
+  },
+  {
+    "año": "2009",
+    "mes": "06",
+    "dia": "24",
+    "titulo": "Transformers: Revenge of the Fallen"
+  },
+  {
+    "año": "2009",
+    "mes": "06",
+    "dia": "30",
+    "titulo": "Public Enemies"
+  },
+  {
+    "año": "2009",
+    "mes": "07",
+    "dia": "06",
+    "titulo": "Harry Potter and the Half-Blood Prince"
+  },
+  {
+    "año": "2009",
+    "mes": "07",
+    "dia": "22",
+    "titulo": "Orphan"
+  },
+  {
+    "año": "2009",
+    "mes": "07",
+    "dia": "30",
+    "titulo": "JULIE AND JULIA"
+  },
+  {
+    "año": "2009",
+    "mes": "08",
+    "dia": "10",
+    "titulo": "The Hangover"
+  },
+  {
+    "año": "2009",
+    "mes": "08",
+    "dia": "13",
+    "titulo": "EL SECRETO DE SUS OJOS"
+  },
+  {
+    "año": "2009",
+    "mes": "08",
+    "dia": "31",
+    "titulo": "Inglourious basterds"
+  },
+  {
+    "año": "2009",
+    "mes": "09",
+    "dia": "08",
+    "titulo": "The Men Who Stare at Goats"
+  },
+  {
+    "año": "2009",
+    "mes": "09",
+    "dia": "11",
+    "titulo": "DAYBREAKERS"
+  },
+  {
+    "año": "2009",
+    "mes": "09",
+    "dia": "25",
+    "titulo": "PANDORUM"
+  },
+  {
+    "año": "2009",
+    "mes": "10",
+    "dia": "13",
+    "titulo": "Where the Wild Things Are"
+  },
+  {
+    "año": "2009",
+    "mes": "11",
+    "dia": "06",
+    "titulo": "THE BOX"
+  },
+  {
+    "año": "2009",
+    "mes": "11",
+    "dia": "17",
+    "titulo": "(500) Days of Summer"
+  },
+  {
+    "año": "2009",
+    "mes": "12",
+    "dia": "03",
+    "titulo": "2012"
+  },
+  {
+    "año": "2009",
+    "mes": "12",
+    "dia": "14",
+    "titulo": "SHERLOCK HOLMES"
+  },
+  {
+    "año": "2009",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "COMPLICATED"
+  },
+  {
+    "año": "2010",
+    "mes": "01",
+    "dia": "01",
+    "titulo": "AVATAR"
+  },
+  {
+    "año": "2010",
+    "mes": "01",
+    "dia": "18",
+    "titulo": "ZOMBIE LAND"
+  },
+  {
+    "año": "2010",
+    "mes": "01",
+    "dia": "19",
+    "titulo": "SMOKING ACES 2"
+  },
+  {
+    "año": "2010",
+    "mes": "02",
+    "dia": "07",
+    "titulo": "LINCON"
+  },
+  {
+    "año": "2010",
+    "mes": "02",
+    "dia": "18",
+    "titulo": "THE SHUTTER ISLAND"
+  },
+  {
+    "año": "2010",
+    "mes": "02",
+    "dia": "24",
+    "titulo": "127 Hours"
+  },
+  {
+    "año": "2010",
+    "mes": "03",
+    "dia": "04",
+    "titulo": "Alice in wonderland"
+  },
+  {
+    "año": "2010",
+    "mes": "04",
+    "dia": "27",
+    "titulo": "A Nightmare on Elm Street"
+  },
+  {
+    "año": "2010",
+    "mes": "04",
+    "dia": "29",
+    "titulo": "IRON MAN 2"
+  },
+  {
+    "año": "2010",
+    "mes": "05",
+    "dia": "07",
+    "titulo": "Pirates of the Caribbean: On Stranger Tides"
+  },
+  {
+    "año": "2010",
+    "mes": "05",
+    "dia": "19",
+    "titulo": "REPOMEN"
+  },
+  {
+    "año": "2010",
+    "mes": "06",
+    "dia": "07",
+    "titulo": "Predators"
+  },
+  {
+    "año": "2010",
+    "mes": "06",
+    "dia": "09",
+    "titulo": "DEADLINE"
+  },
+  {
+    "año": "2010",
+    "mes": "06",
+    "dia": "10",
+    "titulo": "KICK-ASS"
+  },
+  {
+    "año": "2010",
+    "mes": "06",
+    "dia": "26",
+    "titulo": "ORIGEN"
+  },
+  {
+    "año": "2010",
+    "mes": "07",
+    "dia": "15",
+    "titulo": "Knight and Day"
+  },
+  {
+    "año": "2010",
+    "mes": "07",
+    "dia": "27",
+    "titulo": "BATMAN UNDER THE RED HOOD"
+  },
+  {
+    "año": "2010",
+    "mes": "08",
+    "dia": "12",
+    "titulo": "The Last Airbender"
+  },
+  {
+    "año": "2010",
+    "mes": "08",
+    "dia": "13",
+    "titulo": "Eat, Pray, Love"
+  },
+  {
+    "año": "2010",
+    "mes": "08",
+    "dia": "30",
+    "titulo": "THE DEAD"
+  },
+  {
+    "año": "2010",
+    "mes": "09",
+    "dia": "30",
+    "titulo": "MONSTERS"
+  },
+  {
+    "año": "2010",
+    "mes": "10",
+    "dia": "14",
+    "titulo": "Resident Evil: Afterlife"
+  },
+  {
+    "año": "2010",
+    "mes": "10",
+    "dia": "21",
+    "titulo": "The Social Network"
+  },
+  {
+    "año": "2010",
+    "mes": "10",
+    "dia": "28",
+    "titulo": "RED"
+  },
+  {
+    "año": "2010",
+    "mes": "11",
+    "dia": "05",
+    "titulo": "DUE DATE"
+  },
+  {
+    "año": "2010",
+    "mes": "11",
+    "dia": "18",
+    "titulo": "Harry Potter and the Deathly Hallows"
+  },
+  {
+    "año": "2010",
+    "mes": "12",
+    "dia": "13",
+    "titulo": "How do you know"
+  },
+  {
+    "año": "2010",
+    "mes": "12",
+    "dia": "28",
+    "titulo": "NARNIA"
+  },
+  {
+    "año": "2011",
+    "mes": "02",
+    "dia": "17",
+    "titulo": "Black Swan"
+  },
+  {
+    "año": "2011",
+    "mes": "02",
+    "dia": "17",
+    "titulo": "THE FIGHTER"
+  },
+  {
+    "año": "2011",
+    "mes": "03",
+    "dia": "24",
+    "titulo": "SUCKER PUNCH"
+  },{
+    "año": "2011",
+    "mes": "04",
+    "dia": "15",
+    "titulo": "RIO"
+  },
+  {
+    "año": "2011",
+    "mes": "04",
+    "dia": "28",
+    "titulo": "THOR"
+  },
+  {
+    "año": "2011",
+    "mes": "05",
+    "dia": "05",
+    "titulo": "Water for Elephants"
+  },
+  {
+    "año": "2011",
+    "mes": "05",
+    "dia": "25",
+    "titulo": "X-Men: First Class"
+  },
+  {
+    "año": "2011",
+    "mes": "05",
+    "dia": "26",
+    "titulo": "The Hangover: Part II"
+  },
+  {
+    "año": "2011",
+    "mes": "06",
+    "dia": "01",
+    "titulo": "Hereafter"
+  },
+  {
+    "año": "2011",
+    "mes": "06",
+    "dia": "09",
+    "titulo": "HANNA"
+  },
+  {
+    "año": "2011",
+    "mes": "06",
+    "dia": "29",
+    "titulo": "Transformers: Dark of the Moon"
+  },
+  {
+    "año": "2011",
+    "mes": "06",
+    "dia": "30",
+    "titulo": "Midnight in Paris"
+  },
+  {
+    "año": "2011",
+    "mes": "07",
+    "dia": "07",
+    "titulo": "CARS 2"
+  },
+  {
+    "año": "2011",
+    "mes": "07",
+    "dia": "14",
+    "titulo": "Harry Potter and the Deathly Hallows - Part 2"
+  },
+  {
+    "año": "2011",
+    "mes": "07",
+    "dia": "28",
+    "titulo": "Captain America: The First Avenger"
+  },
+  {
+    "año": "2011",
+    "mes": "07",
+    "dia": "28",
+    "titulo": "Crazy, Stupid, Love "
+  },
+  {
+    "año": "2011",
+    "mes": "08",
+    "dia": "04",
+    "titulo": "SUPER-8"
+  },
+  {
+    "año": "2011",
+    "mes": "08",
+    "dia": "09",
+    "titulo": "Green Lantern"
+  },
+  {
+    "año": "2011",
+    "mes": "08",
+    "dia": "18",
+    "titulo": "Rise of the Planet of the Apes"
+  },
+  {
+    "año": "2011",
+    "mes": "08",
+    "dia": "18",
+    "titulo": "COWBOYS AND ALIENS"
+  },
+  {
+    "año": "2011",
+    "mes": "09",
+    "dia": "01",
+    "titulo": " Final Destination 5"
+  },
+  {
+    "año": "2011",
+    "mes": "09",
+    "dia": "03",
+    "titulo": "Contagion"
+  },
+  {
+    "año": "2011",
+    "mes": "09",
+    "dia": "08",
+    "titulo": "The Raid"
+  },
+  {
+    "año": "2011",
+    "mes": "09",
+    "dia": "11",
+    "titulo": "ANNYMOUS"
+  },
+  {
+    "año": "2011",
+    "mes": "09",
+    "dia": "22",
+    "titulo": "Bridesmaids"
+  },
+  {
+    "año": "2011",
+    "mes": "10",
+    "dia": "06",
+    "titulo": "Real Steel"
+  },
+  {
+    "año": "2011",
+    "mes": "10",
+    "dia": "06",
+    "titulo": "THE HUNTER"
+  },
+  {
+    "año": "2011",
+    "mes": "10",
+    "dia": "11",
+    "titulo": "Sherlock Holmes: A Game of Shadows"
+  },
+  {
+    "año": "2011",
+    "mes": "10",
+    "dia": "18",
+    "titulo": "Batman: Year One "
+  },
+  {
+    "año": "2011",
+    "mes": "11",
+    "dia": "03",
+    "titulo": "J.EDGAR"
+  },
+  {
+    "año": "2011",
+    "mes": "11",
+    "dia": "21",
+    "titulo": "SEEKING JUSTICE"
+  },
+  {
+    "año": "2011",
+    "mes": "12",
+    "dia": "01",
+    "titulo": "In Time"
+  },
+  {
+    "año": "2011",
+    "mes": "12",
+    "dia": "08",
+    "titulo": "NEW YEARS EVE"
+  },
+  {
+    "año": "2011",
+    "mes": "12",
+    "dia": "15",
+    "titulo": "MONEYBALL"
+  },
+  {
+    "año": "2011",
+    "mes": "12",
+    "dia": "29",
+    "titulo": "We Bought a Zoo"
+  },
+  {
+    "año": "2012",
+    "mes": "01",
+    "dia": "05",
+    "titulo": "50/50"
+  },
+  {
+    "año": "2012",
+    "mes": "01",
+    "dia": "12",
+    "titulo": "HELP"
+  },
+  {
+    "año": "2012",
+    "mes": "01",
+    "dia": "20",
+    "titulo": "THE DECENDANTS"
+  },
+  {
+    "año": "2012",
+    "mes": "01",
+    "dia": "27",
+    "titulo": "man on a ledge"
+  },
+  {
+    "año": "2012",
+    "mes": "02",
+    "dia": "15",
+    "titulo": "GHOST RIDER 2"
+  },
+  {
+    "año": "2012",
+    "mes": "02",
+    "dia": "16",
+    "titulo": "War Horse"
+  },
+  {
+    "año": "2012",
+    "mes": "02",
+    "dia": "17",
+    "titulo": "Extremely Loud and Incredibly Close"
+  },
+  {
+    "año": "2012",
+    "mes": "03",
+    "dia": "01",
+    "titulo": "Underworld Awakening"
+  },
+  {
+    "año": "2012",
+    "mes": "03",
+    "dia": "15",
+    "titulo": "This Means War"
+  },
+  {
+    "año": "2012",
+    "mes": "03",
+    "dia": "18",
+    "titulo": "ONE IN THE CHAMBER"
+  },
+  {
+    "año": "2012",
+    "mes": "03",
+    "dia": "28",
+    "titulo": "WRATH OF THE TITANS"
+  },
+  {
+    "año": "2012",
+    "mes": "04",
+    "dia": "24",
+    "titulo": "THE BEST EXOTIC MARIGOLD HOTEL"
+  },
+  {
+    "año": "2012",
+    "mes": "04",
+    "dia": "26",
+    "titulo": "AVENGERS"
+  },
+  {
+    "año": "2012",
+    "mes": "04",
+    "dia": "27",
+    "titulo": "DARLING COMPANION"
+  },
+  {
+    "año": "2012",
+    "mes": "05",
+    "dia": "08",
+    "titulo": "JOHN CARTER"
+  },
+  {
+    "año": "2012",
+    "mes": "05",
+    "dia": "10",
+    "titulo": "BATTLESHIP"
+  },
+  {
+    "año": "2012",
+    "mes": "05",
+    "dia": "24",
+    "titulo": "Men in Black III"
+  },
+  {
+    "año": "2012",
+    "mes": "05",
+    "dia": "24",
+    "titulo": "THE BEST EXOTIC MARIGOLD HOTEL"
+  },
+  {
+    "año": "2012",
+    "mes": "06",
+    "dia": "26",
+    "titulo": "The Dark Knight Rises"
+  },
+  {
+    "año": "2012",
+    "mes": "06",
+    "dia": "28",
+    "titulo": "Ice Age 4"
+  },
+  {
+    "año": "2012",
+    "mes": "07",
+    "dia": "05",
+    "titulo": "THE AMAZING SPIDERMAN"
+  },
+  {
+    "año": "2012",
+    "mes": "07",
+    "dia": "06",
+    "titulo": "PI"
+  },
+  {
+    "año": "2012",
+    "mes": "07",
+    "dia": "12",
+    "titulo": "Brave"
+  },
+  {
+    "año": "2012",
+    "mes": "07",
+    "dia": "14",
+    "titulo": "PROMETHEUS"
+  },
+  {
+    "año": "2012",
+    "mes": "08",
+    "dia": "09",
+    "titulo": "abraham lincoln vampire hunter"
+  },
+  {
+    "año": "2012",
+    "mes": "08",
+    "dia": "15",
+    "titulo": "the odd life of timothy green"
+  },
+  {
+    "año": "2012",
+    "mes": "08",
+    "dia": "15",
+    "titulo": "The Expendables 2"
+  },
+  {
+    "año": "2012",
+    "mes": "08",
+    "dia": "23",
+    "titulo": "premium Rush"
+  },
+  {
+    "año": "2012",
+    "mes": "08",
+    "dia": "31",
+    "titulo": "THE TALL MAN"
+  },
+  {
+    "año": "2012",
+    "mes": "09",
+    "dia": "20",
+    "titulo": "Resident Evil: Retribution"
+  },
+  {
+    "año": "2012",
+    "mes": "09",
+    "dia": "20",
+    "titulo": "Ruby Sparks"
+  },
+  {
+    "año": "2012",
+    "mes": "09",
+    "dia": "20",
+    "titulo": "SEEKING A FRIEND TO THE END OF THE WORLD"
+  },
+  {
+    "año": "2012",
+    "mes": "10",
+    "dia": "17",
+    "titulo": "RESIDENT EVIL DAMNATION"
+  },
+  {
+    "año": "2012",
+    "mes": "10",
+    "dia": "25",
+    "titulo": "sinister"
+  },
+  {
+    "año": "2012",
+    "mes": "11",
+    "dia": "01",
+    "titulo": "007 OPERATION SKYFALL"
+  },
+  {
+    "año": "2012",
+    "mes": "11",
+    "dia": "01",
+    "titulo": "FRANKENWEENIE"
+  },
+  {
+    "año": "2012",
+    "mes": "11",
+    "dia": "29",
+    "titulo": "The Perks of Being a Wallflower "
+  },
+  {
+    "año": "2013",
+    "mes": "01",
+    "dia": "13",
+    "titulo": "ralph el demoledor"
+  },
+  {
+    "año": "2013",
+    "mes": "01",
+    "dia": "17",
+    "titulo": "GANGSTER SQUAD"
+  },
+  {
+    "año": "2013",
+    "mes": "01",
+    "dia": "31",
+    "titulo": "DJANGO"
+  },
+  {
+    "año": "2013",
+    "mes": "02",
+    "dia": "22",
+    "titulo": "DARK SKIES"
+  },
+  {
+    "año": "2013",
+    "mes": "04",
+    "dia": "05",
+    "titulo": "6 SOULS"
+  },
+  {
+    "año": "2013",
+    "mes": "04",
+    "dia": "08",
+    "titulo": "the call"
+  },
+  {
+    "año": "2013",
+    "mes": "03",
+    "dia": "07",
+    "titulo": "HITCHCOCK"
+  },
+  {
+    "año": "2013",
+    "mes": "03",
+    "dia": "07",
+    "titulo": "Oz the Great and Powerful"
+  },
+  {
+    "año": "2013",
+    "mes": "03",
+    "dia": "14",
+    "titulo": "Warm Bodies"
+  },
+  {
+    "año": "2013",
+    "mes": "04",
+    "dia": "14",
+    "titulo": "ANA KARENINA"
+  },
+  {
+    "año": "2013",
+    "mes": "04",
+    "dia": "25",
+    "titulo": "IRON MAN 3"
+  },
+  {
+    "año": "2013",
+    "mes": "05",
+    "dia": "16",
+    "titulo": "The Great Gatsby"
+  },
+  {
+    "año": "2013",
+    "mes": "05",
+    "dia": "21",
+    "titulo": "Now You See Me"
+  },
+  {
+    "año": "2013",
+    "mes": "05",
+    "dia": "27",
+    "titulo": "The Hangover: Part III"
+  },
+  {
+    "año": "2013",
+    "mes": "06",
+    "dia": "06",
+    "titulo": "After Earth "
+  },
+  {
+    "año": "2013",
+    "mes": "06",
+    "dia": "10",
+    "titulo": "THE WORLDS END"
+  },
+  {
+    "año": "2013",
+    "mes": "06",
+    "dia": "20",
+    "titulo": "MONSTERS INIVERSITY"
+  },
+  {
+    "año": "2013",
+    "mes": "06",
+    "dia": "20",
+    "titulo": "THE MAN WITH THE IRON FIST"
+  },
+  {
+    "año": "2013",
+    "mes": "07",
+    "dia": "04",
+    "titulo": "Despicable Me 2"
+  },
+  {
+    "año": "2013",
+    "mes": "07",
+    "dia": "04",
+    "titulo": "Lone Ranger"
+  },
+  {
+    "año": "2013",
+    "mes": "07",
+    "dia": "25",
+    "titulo": "The Wolverine"
+  },
+  {
+    "año": "2013",
+    "mes": "07",
+    "dia": "27",
+    "titulo": "World War Z"
+  },
+  {
+    "año": "2013",
+    "mes": "08",
+    "dia": "01",
+    "titulo": "RED 2"
+  },
+  {
+    "año": "2013",
+    "mes": "08",
+    "dia": "07",
+    "titulo": "ELYSIUM"
+  },
+  {
+    "año": "2013",
+    "mes": "08",
+    "dia": "08",
+    "titulo": "The Conjuring "
+  },
+  {
+    "año": "2013",
+    "mes": "08",
+    "dia": "09",
+    "titulo": "PRINCE AVALANCHE"
+  },
+  {
+    "año": "2013",
+    "mes": "08",
+    "dia": "22",
+    "titulo": "the dead 2"
+  },
+  {
+    "año": "2013",
+    "mes": "09",
+    "dia": "19",
+    "titulo": "This Is the End"
+  },
+  {
+    "año": "2013",
+    "mes": "09",
+    "dia": "19",
+    "titulo": "Grown Ups 2"
+  },
+  {
+    "año": "2013",
+    "mes": "09",
+    "dia": "26",
+    "titulo": "The Heat"
+  },
+  {
+    "año": "2013",
+    "mes": "09",
+    "dia": "26",
+    "titulo": "The Purge"
+  },
+  {
+    "año": "2013",
+    "mes": "10",
+    "dia": "10",
+    "titulo": "Insidious: Chapter 2"
+  },
+  {
+    "año": "2013",
+    "mes": "10",
+    "dia": "17",
+    "titulo": "CAPITAIN PHILLIPS"
+  },
+  {
+    "año": "2013",
+    "mes": "10",
+    "dia": "31",
+    "titulo": "CARRIE"
+  },
+  {
+    "año": "2013",
+    "mes": "11",
+    "dia": "14",
+    "titulo": "The Counselor"
+  },
+  {
+    "año": "2013",
+    "mes": "11",
+    "dia": "14",
+    "titulo": "The Fifth Estate"
+  },
+  {
+    "año": "2013",
+    "mes": "11",
+    "dia": "21",
+    "titulo": "The Hunger Games: Catching Fire"
+  },
+  {
+    "año": "2013",
+    "mes": "11",
+    "dia": "21",
+    "titulo": "Thor: The Dark World "
+  },
+  {
+    "año": "2013",
+    "mes": "11",
+    "dia": "21",
+    "titulo": "Delivery Man "
+  },
+  {
+    "año": "2013",
+    "mes": "11",
+    "dia": "28",
+    "titulo": "Prisoners "
+  },
+  {
+    "año": "2013",
+    "mes": "12",
+    "dia": "25",
+    "titulo": "Grudge Match"
+  },
+  {
+    "año": "2014",
+    "mes": "01",
+    "dia": "02",
+    "titulo": "FROZEN"
+  },
+  {
+    "año": "2014",
+    "mes": "01",
+    "dia": "02",
+    "titulo": "The Secret Life of Walter Mitty"
+  },
+  {
+    "año": "2014",
+    "mes": "01",
+    "dia": "23",
+    "titulo": "AMERICAN HUSTLE"
+  },
+  {
+    "año": "2014",
+    "mes": "01",
+    "dia": "23",
+    "titulo": "Saving Mr. Banks "
+  },
+  {
+    "año": "2014",
+    "mes": "01",
+    "dia": "23",
+    "titulo": "The Book Thief"
+  },
+  {
+    "año": "2014",
+    "mes": "02",
+    "dia": "27",
+    "titulo": "The Monuments Men"
+  },
+  {
+    "año": "2014",
+    "mes": "03",
+    "dia": "13",
+    "titulo": "HER"
+  },
+  {
+    "año": "2014",
+    "mes": "03",
+    "dia": "13",
+    "titulo": "Devil's Due"
+  },
+  {
+    "año": "2014",
+    "mes": "03",
+    "dia": "13",
+    "titulo": "NEED FOR SPEED"
+  },
+  {
+    "año": "2014",
+    "mes": "04",
+    "dia": "03",
+    "titulo": "Captain America: The Winter Soldier "
+  },
+  {
+    "año": "2014",
+    "mes": "04",
+    "dia": "10",
+    "titulo": "RIO 2"
+  },
+  {
+    "año": "2014",
+    "mes": "04",
+    "dia": "24",
+    "titulo": "THE AMAZING SPIDERMAN 2"
+  },
+  {
+    "año": "2014",
+    "mes": "05",
+    "dia": "22",
+    "titulo": "X-MEN DAYS OF FUTURE PAST"
+  },
+  {
+    "año": "2014",
+    "mes": "05",
+    "dia": "29",
+    "titulo": "maleficent"
+  },
+  {
+    "año": "2014",
+    "mes": "06",
+    "dia": "05",
+    "titulo": "how to train your dragon 2"
+  },
+  {
+    "año": "2014",
+    "mes": "07",
+    "dia": "16",
+    "titulo": "The Purge: Election Year"
+  },
+  {
+    "año": "2014",
+    "mes": "07",
+    "dia": "17",
+    "titulo": "Dawn of the Planet of the Apes"
+  },
+  {
+    "año": "2014",
+    "mes": "07",
+    "dia": "31",
+    "titulo": "Guardians of the Galaxy"
+  },
+  {
+    "año": "2014",
+    "mes": "08",
+    "dia": "12",
+    "titulo": "The Expendables 3"
+  },
+  {
+    "año": "2014",
+    "mes": "08",
+    "dia": "14",
+    "titulo": "The Hundred-Foot Journey"
+  },
+  {
+    "año": "2014",
+    "mes": "08",
+    "dia": "15",
+    "titulo": "The Interview"
+  },
+  {
+    "año": "2014",
+    "mes": "10",
+    "dia": "02",
+    "titulo": "Gone Girl"
+  },
+  {
+    "año": "2014",
+    "mes": "10",
+    "dia": "07",
+    "titulo": "WHIPLASH"
+  },
+  {
+    "año": "2014",
+    "mes": "10",
+    "dia": "15",
+    "titulo": "FURY"
+  },
+  {
+    "año": "2014",
+    "mes": "10",
+    "dia": "17",
+    "titulo": "BIRDMAN"
+  },
+  {
+    "año": "2014",
+    "mes": "11",
+    "dia": "20",
+    "titulo": "The Hunger Games: Mockingjay"
+  },
+  {
+    "año": "2014",
+    "mes": "12",
+    "dia": "11",
+    "titulo": "Big Hero 6"
+  },
+  
+  {
+    "año": "2015",
+    "mes": "01",
+    "dia": "29",
+    "titulo": "unbroken"
+  },
+  {
+    "año": "2015",
+    "mes": "03",
+    "dia": "04",
+    "titulo": "CHAPPIE"
+  },
+  {
+    "año": "2015",
+    "mes": "03",
+    "dia": "19",
+    "titulo": "Cinderella "
+  },
+  {
+    "año": "2015",
+    "mes": "05",
+    "dia": "21",
+    "titulo": "TOMORROW LAND"
+  },
+  {
+    "año": "2015",
+    "mes": "04",
+    "dia": "15",
+    "titulo": "Avengers: Age of Ultron"
+  },
+  {
+    "año": "2015",
+    "mes": "05",
+    "dia": "21",
+    "titulo": "Tomorrowland"
+  },
+  {
+    "año": "2015",
+    "mes": "07",
+    "dia": "16",
+    "titulo": "ANT-MAN"
+  },
+  {
+    "año": "2015",
+    "mes": "07",
+    "dia": "23",
+    "titulo": "PIXELS"
+  },
+  {
+    "año": "2015",
+    "mes": "10",
+    "dia": "27",
+    "titulo": "sinister 2"
+  },
+  {
+    "año": "2015",
+    "mes": "11",
+    "dia": "05",
+    "titulo": "007 SPECTRE"
+  },
+  {
+    "año": "2015",
+    "mes": "11",
+    "dia": "19",
+    "titulo": "The Hunger Games: Mockingjay – Part 2"
+  },
+  {
+    "año": "2016",
+    "mes": "02",
+    "dia": "11",
+    "titulo": "DEADPOOL"
+  },
+  {
+    "año": "2016",
+    "mes": "03",
+    "dia": "24",
+    "titulo": "Batman vs Superman: Dawn of Justice "
+  },
+  {
+    "año": "2016",
+    "mes": "05",
+    "dia": "05",
+    "titulo": " Captain America: Civil War"
+  },
+  {
+    "año": "2016",
+    "mes": "07",
+    "dia": "08",
+    "titulo": "The Secret Life of Pets"
+  },
+  {
+    "año": "2016",
+    "mes": "06",
+    "dia": "09",
+    "titulo": "The Conjuring 2"
+  },
+  {
+    "año": "2016",
+    "mes": "06",
+    "dia": "16",
+    "titulo": "NOW SEE ME 2"
+  },
+  {
+    "año": "2016",
+    "mes": "06",
+    "dia": "23",
+    "titulo": "Independence Day: Resurgence"
+  },
+  {
+    "año": "2016",
+    "mes": "08",
+    "dia": "09",
+    "titulo": " Suicide Squad"
+  },
+  {
+    "año": "2016",
+    "mes": "09",
+    "dia": "26",
+    "titulo": "Split"
+  },
+  {
+    "año": "2016",
+    "mes": "10",
+    "dia": "13",
+    "titulo": "DOCTOR STRANGE"
+  },
+  {
+    "año": "2016",
+    "mes": "10",
+    "dia": "13",
+    "titulo": "INFERNO"
+  },
+  {
+    "año": "2016",
+    "mes": "10",
+    "dia": "27",
+    "titulo": "The Accountant"
+  },
+  {
+    "año": "2016",
+    "mes": "12",
+    "dia": "21",
+    "titulo": "PASSENGERS"
+  },
+  {
+    "año": "2016",
+    "mes": "12",
+    "dia": "22",
+    "titulo": "LA LA LAND"
+  },
+
+  {
+    "año": "2017",
+    "mes": "03",
+    "dia": "01",
+    "titulo": "LOGAN"
+  },
+  {
+    "año": "2017",
+    "mes": "03",
+    "dia": "23",
+    "titulo": "LIFE VIDA INTELIGENTE"
+  },
+  {
+    "año": "2017",
+    "mes": "03",
+    "dia": "30",
+    "titulo": "GHOST IN THE SHELL"
+  },
+  {
+    "año": "2017",
+    "mes": "04",
+    "dia": "19",
+    "titulo": "Guardians of the Galaxy 2"
+  },
+  {
+    "año": "2017",
+    "mes": "07",
+    "dia": "28",
+    "titulo": "SPIDERMAN HOMECOMING"
+  },
+  {
+    "año": "2017",
+    "mes": "09",
+    "dia": "15",
+    "titulo": "Mother!"
+  },
+  {
+    "año": "2017",
+    "mes": "10",
+    "dia": "10",
+    "titulo": "THOR RAGNAROK"
+  },
+  {
+    "año": "2017",
+    "mes": "10",
+    "dia": "27",
+    "titulo": "COCO"
+  },
+  {
+    "año": "2017",
+    "mes": "12",
+    "dia": "05",
+    "titulo": "JUMANJI WELCOME TO THE JUNGLE"
+  },
+  {
+    "año": "2018",
+    "mes": "04",
+    "dia": "26",
+    "titulo": "AVENGER INFINITY WAR"
+  }
+  
+]

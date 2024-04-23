@@ -52,7 +52,9 @@ export const SearchBar = () => {
               alt={pelicula.title}
             />
             <h2>{pelicula.title}</h2>
+            <h2>{pelicula.release_date}</h2>
             <p>{pelicula.overview}</p>
+            <button className="btn btn-primary">agregar pelicula</button>
           </div>
         ))}
       </div>

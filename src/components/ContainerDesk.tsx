@@ -1,5 +1,7 @@
 import { Col, Row } from "react-bootstrap";
 import { InputGroup, Form, Button } from "react-bootstrap";
+import { MovieList } from "./MovieList";
+import { Link } from "react-router-dom";
 
 export const ContainerDesk = () => {
   return (
@@ -20,7 +22,9 @@ export const ContainerDesk = () => {
 
         <Row className="bg-primary">
           <Col md={6}>
-            <Button className="btn btn-dark">Agregar Peliculas</Button>
+            <Link to="/add-movie" className="btn btn-dark">
+              Agregar Peliculas
+            </Link>
           </Col>
           <Col md={6}>
             <Button className="btn btn-dark">Settings</Button>
@@ -32,6 +36,7 @@ export const ContainerDesk = () => {
       </Col>
       <Col md={6} xl={4} className="bg-warning">
         <p className="display-5">Lista de Peliculas</p>
+        <MovieList></MovieList>
       </Col>{" "}
       <Col md={6} xl={4} className="bg-danger">
         <p className="display-5">Pelicula Selecionada</p>
