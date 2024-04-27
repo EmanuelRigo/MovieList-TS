@@ -10,7 +10,7 @@ export const CardRow = ({ movie }: MovieData) => {
           </div>
           <div className="col-md-8">
             <div className="card-body">
-              <h5 className="card-title ">{movie.titulo}</h5>
+              <h5 className="card-title ">{movie.año}</h5>
 
               <p className="card-text">{movie.año}</p>
             </div>
