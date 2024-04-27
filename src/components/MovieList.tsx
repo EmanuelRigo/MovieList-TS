@@ -1,7 +1,8 @@
 import { useContext } from "react";
 import { MovieContext } from "../context/MovieContext";
 import { Row } from "react-bootstrap";
-import { CardMovie } from "./CardMovie";
+//import { CardMovie } from "./CardMovie";
+import { CardRow } from "./CardRow";
 
 interface MovieData {
   año: string;
@@ -21,9 +22,9 @@ export const MovieList = () => {
   console.log(jsonData);
 
   return (
-    <Row>
+    <Row className="bg-light overflow-auto h-100">
       {jsonData.map((item) => {
-        return <CardMovie movie={item}></CardMovie>;
+        return <CardRow movie={item}></CardRow>;
       })}
     </Row>
   );

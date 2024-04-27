@@ -50,6 +50,10 @@ export const SearchBar = () => {
             <img
               src={`https://image.tmdb.org/t/p/w500${pelicula.poster_path}`}
               alt={pelicula.title}
+            />{" "}
+            <img
+              src={`https://image.tmdb.org/t/p/w500${pelicula.backdrop_path}`}
+              alt={pelicula.title}
             />
             <h2>{pelicula.title}</h2>
             <h2>{pelicula.release_date}</h2>

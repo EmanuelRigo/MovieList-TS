@@ -19,14 +19,14 @@ export const ContainerMain: React.FC = () => {
   }, []);
 
   return (
-    <Container className={screenWidth > 1500 ? "bg-danger" : "bg-warning"}>
+    <Container
+      className={`${screenWidth > 1500 ? "bg-danger" : "bg-warning"} vh-100`}
+    >
       {screenWidth > 1100 ? (
         <ContainerDesk></ContainerDesk>
       ) : (
         <ContainerMobile></ContainerMobile>
       )}
-
-      <h1>HOLA</h1>
     </Container>
   );
 };

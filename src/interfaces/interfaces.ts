@@ -14,3 +14,10 @@ export interface Pelicula {
   vote_average: number;
   vote_count: number;
 }
+
+export interface MovieData {
+  año: string;
+  mes: string;
+  dia: string;
+  titulo: string;
+}
