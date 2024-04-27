@@ -43,8 +43,7 @@ export const ContainerDesk = () => {
         <p className="display-5">Lista de Peliculas</p>
         <MovieList></MovieList>
       </Col>{" "}
-      <Col md={6} xl={4} className="bg-danger h-100">
-        <p className="display-5">Pelicula Selecionada</p>
+      <Col md={6} xl={4} className="bg-danger h-100  d-flex align-items-center">
         <CardMovie></CardMovie>
       </Col>
     </Row>
