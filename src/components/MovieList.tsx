@@ -22,10 +22,13 @@ export const MovieList = () => {
   console.log(jsonData);
 
   return (
-    <Row className="bg-light overflow-auto h-100">
-      {jsonData.map((item) => {
-        return <CardRow movie={item}></CardRow>;
-      })}
-    </Row>
+    <>
+      <p className="display-5 text-light">Lista de Peliculas</p>
+      <Row className="overflow-auto h-100">
+        {jsonData.map((item) => {
+          return <CardRow movie={item}></CardRow>;
+        })}
+      </Row>
+    </>
   );
 };

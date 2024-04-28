@@ -20,7 +20,9 @@ export const ContainerMain: React.FC = () => {
 
   return (
     <Container
-      className={`${screenWidth > 1500 ? "bg-danger" : "bg-warning"} vh-100`}
+      className={`${
+        screenWidth > 1500 ? "bg-todo" : "bg-todo"
+      } vh-100 todo-container`}
     >
       {screenWidth > 1100 ? (
         <ContainerDesk></ContainerDesk>

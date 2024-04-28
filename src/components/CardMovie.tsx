@@ -4,9 +4,9 @@ import { Row, Col, Image, Card } from "react-bootstrap";
 
 export const CardMovie = () => {
   return (
-    <Row>
+    <Row className="h-100">
       <Col md={12}>
-        <Card className="border-0 rounded-1 bg-warning overflow-hidden">
+        <Card className="border-0 rounded-1 bg-warning h-100 overflow-hidden">
           <Card.Img variant="top" src="../src/public/poster3.jpg" />
           <Card.Body className="bg-dark text-light">
             <Card.Title>Jurassic Park 3</Card.Title>
